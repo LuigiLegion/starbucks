@@ -329,7 +329,16 @@
     "country": "US",
     "longitude": -73.9849090576172,
     "latitude": 40.7694473266602,
-    "storeId": 8735
+    "storeId": 8735,
+    "storeHours": {
+      "sunday": "7:00 AM to 6:00 PM",
+      "monday": "6:00 AM to 8:00 PM",
+      "tuesday": "6:00 AM to 8:00 PM",
+      "wednesday": "6:00 AM to 8:00 PM",
+      "thursday": "6:00 AM to 8:00 PM",
+      "friday": "6:00 AM to 8:00 PM",
+      "saturday": "7:00 AM to 6:00 PM"
+    }
   },
   {
     "city": "New York",
