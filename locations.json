@@ -998,7 +998,16 @@
     "country": "US",
     "longitude": -73.9752807617188,
     "latitude": 40.7508659362793,
-    "storeId": 11854
+    "storeId": 11854,
+    "storeHours": {
+      "sunday": "6:00 AM to 8:00 PM",
+      "monday": "5:30 AM to 8:30 PM",
+      "tuesday": "5:30 AM to 8:30 PM",
+      "wednesday": "5:30 AM to 8:30 PM",
+      "thursday": "5:30 AM to 8:30 PM",
+      "friday": "5:30 AM to 8:30 PM",
+      "saturday": "6:00 AM to 8:00 PM"
+    }
   },
   {
     "city": "Astoria",
