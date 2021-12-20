@@ -1209,7 +1209,16 @@
     "country": "US",
     "longitude": -73.98046875,
     "latitude": 40.7595062255859,
-    "storeId": 12247
+    "storeId": 12247,
+    "storeHours": {
+      "sunday": "8:30 AM to 6:00 PM",
+      "monday": "5:30 AM to 7:00 PM",
+      "tuesday": "5:30 AM to 7:00 PM",
+      "wednesday": "5:30 AM to 7:00 PM",
+      "thursday": "5:30 AM to 7:00 PM",
+      "friday": "5:30 AM to 7:00 PM",
+      "saturday": "8:30 AM to 6:00 PM"
+    }
   },
   {
     "city": "Bronx",
