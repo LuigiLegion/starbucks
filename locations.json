@@ -1251,7 +1251,16 @@
     "country": "US",
     "longitude": -74.0130157470703,
     "latitude": 40.7043495178223,
-    "storeId": 12804
+    "storeId": 12804,
+    "storeHours": {
+      "sunday": "7:00 AM to 7:00 PM",
+      "monday": "6:00 AM to 7:00 PM",
+      "tuesday": "6:00 AM to 7:00 PM",
+      "wednesday": "6:00 AM to 7:00 PM",
+      "thursday": "6:00 AM to 7:00 PM",
+      "friday": "6:00 AM to 7:00 PM",
+      "saturday": "7:00 AM to 7:00 PM"
+    }
   },
   {
     "city": "Forest Hills",
