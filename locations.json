@@ -1435,7 +1435,16 @@
     "country": "US",
     "longitude": -73.9727478027344,
     "latitude": 40.7938652038574,
-    "storeId": 13552
+    "storeId": 13552,
+    "storeHours": {
+      "sunday": "5:30 AM to 9:00 PM",
+      "monday": "5:30 AM to 9:00 PM",
+      "tuesday": "5:30 AM to 9:00 PM",
+      "wednesday": "5:30 AM to 9:00 PM",
+      "thursday": "5:30 AM to 9:00 PM",
+      "friday": "5:30 AM to 9:00 PM",
+      "saturday": "5:30 AM to 9:00 PM"
+    }
   },
   {
     "city": "Fresh Meadows",
