@@ -1468,7 +1468,16 @@
     "country": "US",
     "longitude": -73.766471862793,
     "latitude": 40.7608604431152,
-    "storeId": 13509
+    "storeId": 13509,
+    "storeHours": {
+      "sunday": "6:00 AM to 9:00 PM",
+      "monday": "5:00 AM to 9:00 PM",
+      "tuesday": "5:00 AM to 9:00 PM",
+      "wednesday": "5:00 AM to 9:00 PM",
+      "thursday": "5:00 AM to 9:00 PM",
+      "friday": "5:00 AM to 9:00 PM",
+      "saturday": "6:00 AM to 9:00 PM"
+    }
   },
   {
     "city": "Flushing",
