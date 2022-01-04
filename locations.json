@@ -3177,6 +3177,15 @@
     "country": "US",
     "longitude": -74.2070999145508,
     "latitude": 40.5419845581055,
-    "storeId": 1015914
+    "storeId": 1015914,
+    "storeHours": {
+      "sunday": "6:00 AM to 8:00 PM",
+      "monday": "5:00 AM to 8:00 PM",
+      "tuesday": "5:00 AM to 8:00 PM",
+      "wednesday": "5:00 AM to 8:00 PM",
+      "thursday": "5:00 AM to 8:00 PM",
+      "friday": "5:00 AM to 9:30 PM",
+      "saturday": "6:00 AM to 9:30 PM"
+    }
   }
 ]
