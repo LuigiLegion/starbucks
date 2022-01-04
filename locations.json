@@ -3169,7 +3169,16 @@
     "country": "US",
     "longitude": -73.948371887207,
     "latitude": 40.7827758789062,
-    "storeId": 1015899
+    "storeId": 1015899,
+    "storeHours": {
+      "sunday": "6:30 AM to 6:30 PM",
+      "monday": "6:30 AM to 6:30 PM",
+      "tuesday": "6:30 AM to 6:30 PM",
+      "wednesday": "6:30 AM to 6:30 PM",
+      "thursday": "6:30 AM to 6:30 PM",
+      "friday": "6:30 AM to 6:30 PM",
+      "saturday": "6:30 AM to 6:30 PM"
+    }
   },
   {
     "city": "Staten Island",
