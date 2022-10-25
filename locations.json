@@ -41,13 +41,13 @@
     "latitude": 40.7892875671387,
     "storeId": 6590,
     "storeHours": {
-      "sunday": "6:00 AM to 7:00 PM",
-      "monday": "6:00 AM to 8:00 PM",
-      "tuesday": "6:00 AM to 8:00 PM",
-      "wednesday": "6:00 AM to 8:00 PM",
-      "thursday": "6:00 AM to 8:00 PM",
-      "friday": "6:00 AM to 8:00 PM",
-      "saturday":"6:00 AM to 8:00 PM"
+      "sunday": "6:30 AM to 6:30 PM",
+      "monday": "5:30 AM to 7:30 PM",
+      "tuesday": "5:30 AM to 7:30 PM",
+      "wednesday": "5:30 AM to 7:30 PM",
+      "thursday": "5:30 AM to 7:30 PM",
+      "friday": "5:30 AM to 7:30 PM",
+      "saturday":"6:30 AM to 6:30 PM"
     }
   },
   {
@@ -3085,13 +3085,13 @@
     "latitude": 40.7321891784668,
     "storeId": 1008876,
     "storeHours": {
-      "sunday": "6:00 AM to 10:00 PM",
+      "sunday": "5:30 AM to 12:00 AM",
       "monday": "5:30 AM to 11:00 PM",
       "tuesday": "5:30 AM to 11:00 PM",
       "wednesday": "5:30 AM to 11:00 PM",
       "thursday": "5:30 AM to 11:00 PM",
       "friday": "5:30 AM to 11:00 PM",
-      "saturday": "5:30 AM to 11:00 PM"
+      "saturday": "5:30 AM to 12:00 AM"
     }
   },
   {
@@ -3102,13 +3102,13 @@
     "latitude": 40.7570533752441,
     "storeId": 1014671,
     "storeHours": {
-      "sunday": "Closed",
-      "monday": "7:00 AM to 6:00 PM",
-      "tuesday": "7:00 AM to 6:00 PM",
-      "wednesday": "7:00 AM to 6:00 PM",
-      "thursday": "7:00 AM to 6:00 PM",
-      "friday": "7:00 AM to 6:00 PM",
-      "saturday": "Closed"
+      "sunday": "8:00 AM to 4:00 PM",
+      "monday": "5:30 AM to 6:30 PM",
+      "tuesday": "5:30 AM to 6:30 PM",
+      "wednesday": "5:30 AM to 6:30 PM",
+      "thursday": "5:30 AM to 6:30 PM",
+      "friday": "5:30 AM to 6:30 PM",
+      "saturday": "8:00 AM to 4:00 PM"
     }
   },
   {
@@ -3135,13 +3135,13 @@
     "latitude": 40.729808807373,
     "storeId": 1009778,
     "storeHours": {
-      "sunday": "5:30 AM to 9:00 PM",
-      "monday": "5:30 AM to 9:00 PM",
-      "tuesday": "5:30 AM to 9:00 PM",
-      "wednesday": "5:30 AM to 9:00 PM",
-      "thursday": "5:30 AM to 9:00 PM",
-      "friday": "5:30 AM to 9:00 PM",
-      "saturday": "5:30 AM to 9:00 PM"
+      "sunday": "6:00 AM to 9:30 PM",
+      "monday": "5:30 AM to 9:30 PM",
+      "tuesday": "5:30 AM to 9:30 PM",
+      "wednesday": "5:30 AM to 9:30 PM",
+      "thursday": "5:30 AM to 9:30 PM",
+      "friday": "5:30 AM to 9:30 PM",
+      "saturday": "6:00 AM to 9:30 PM"
     }
   },
   {
@@ -3152,13 +3152,13 @@
     "latitude": 40.8511047363281,
     "storeId": 1015362,
     "storeHours": {
-      "sunday": "6:00 AM to 10:00 PM",
-      "monday": "5:00 AM to 10:00 PM",
-      "tuesday": "5:00 AM to 10:00 PM",
-      "wednesday": "5:00 AM to 10:00 PM",
-      "thursday": "5:00 AM to 10:00 PM",
-      "friday": "5:00 AM to 10:00 PM",
-      "saturday": "6:00 AM to 10:00 PM"
+      "sunday": "5:30 AM to 9:00 PM",
+      "monday": "5:00 AM to 9:00 PM",
+      "tuesday": "5:00 AM to 9:00 PM",
+      "wednesday": "5:00 AM to 9:00 PM",
+      "thursday": "5:00 AM to 9:00 PM",
+      "friday": "5:00 AM to 9:00 PM",
+      "saturday": "5:30 AM to 9:00 PM"
     }
   },
   {
@@ -3177,13 +3177,13 @@
     "latitude": 40.8243141174316,
     "storeId": 1015873,
     "storeHours": {
-      "sunday": "Closed",
-      "monday": "6:00 AM to 9:00 PM",
-      "tuesday": "6:00 AM to 9:00 PM",
-      "wednesday": "6:00 AM to 9:00 PM",
-      "thursday": "6:00 AM to 9:00 PM",
-      "friday": "6:00 AM to 10:00 PM",
-      "saturday": "Closed"
+      "sunday": "6:30 AM to 9:30 PM",
+      "monday": "5:30 AM to 9:30 PM",
+      "tuesday": "5:30 AM to 9:30 PM",
+      "wednesday": "5:30 AM to 9:30 PM",
+      "thursday": "5:30 AM to 9:30 PM",
+      "friday": "5:30 AM to 9:30 PM",
+      "saturday": "6:30 AM to 9:30 PM"
     }
   },
   {
@@ -3194,13 +3194,13 @@
     "latitude": 40.714168548584,
     "storeId": 1015738,
     "storeHours": {
-      "sunday": "7:00 AM to 7:00 PM",
-      "monday": "5:30 AM to 7:00 PM",
-      "tuesday": "5:30 AM to 7:00 PM",
-      "wednesday": "5:30 AM to 7:00 PM",
-      "thursday": "5:30 AM to 7:00 PM",
-      "friday": "5:30 AM to 7:00 PM",
-      "saturday": "7:00 AM to 7:00 PM"
+      "sunday": "6:30 AM to 7:30 PM",
+      "monday": "5:30 AM to 7:30 PM",
+      "tuesday": "5:30 AM to 7:30 PM",
+      "wednesday": "5:30 AM to 7:30 PM",
+      "thursday": "5:30 AM to 7:30 PM",
+      "friday": "5:30 AM to 7:30 PM",
+      "saturday": "6:30 AM to 7:30 PM"
     }
   },
   {
@@ -3227,13 +3227,13 @@
     "latitude": 40.7801361083984,
     "storeId": 1015661,
     "storeHours": {
-      "sunday": "6:30 AM to 8:00 PM",
-      "monday": "6:00 AM to 8:30 PM",
-      "tuesday": "6:00 AM to 8:30 PM",
-      "wednesday": "6:00 AM to 8:30 PM",
-      "thursday": "6:00 AM to 8:30 PM",
-      "friday": "6:00 AM to 8:30 PM",
-      "saturday": "6:30 AM to 8:00 PM"
+      "sunday": "5:00 AM to 8:30 PM",
+      "monday": "5:00 AM to 8:30 PM",
+      "tuesday": "5:00 AM to 8:30 PM",
+      "wednesday": "5:00 AM to 8:30 PM",
+      "thursday": "5:00 AM to 8:30 PM",
+      "friday": "5:00 AM to 8:30 PM",
+      "saturday": "5:00 AM to 8:30 PM"
     }
   },
   {
@@ -3244,13 +3244,13 @@
     "latitude": 40.6668548583984,
     "storeId": 1015924,
     "storeHours": {
-      "sunday": "7:00 AM to 8:00 PM",
+      "sunday": "6:00 AM to 9:00 PM",
       "monday": "5:30 AM to 8:00 PM",
       "tuesday": "5:30 AM to 8:00 PM",
       "wednesday": "5:30 AM to 8:00 PM",
       "thursday": "5:30 AM to 8:00 PM",
       "friday": "5:30 AM to 8:00 PM",
-      "saturday": "7:00 AM to 8:00 PM"
+      "saturday": "6:00 AM to 9:00 PM"
     }
   },
   {
@@ -3261,13 +3261,13 @@
     "latitude": 40.7827758789062,
     "storeId": 1015899,
     "storeHours": {
-      "sunday": "6:30 AM to 6:30 PM",
-      "monday": "6:30 AM to 6:30 PM",
-      "tuesday": "6:30 AM to 6:30 PM",
-      "wednesday": "6:30 AM to 6:30 PM",
-      "thursday": "6:30 AM to 6:30 PM",
-      "friday": "6:30 AM to 6:30 PM",
-      "saturday": "6:30 AM to 6:30 PM"
+      "sunday": "5:30 AM to 7:30 PM",
+      "monday": "5:30 AM to 8:30 PM",
+      "tuesday": "5:30 AM to 8:30 PM",
+      "wednesday": "5:30 AM to 8:30 PM",
+      "thursday": "5:30 AM to 8:30 PM",
+      "friday": "5:30 AM to 8:30 PM",
+      "saturday": "5:30 AM to 7:30 PM"
     }
   },
   {
@@ -3278,13 +3278,13 @@
     "latitude": 40.5419845581055,
     "storeId": 1015914,
     "storeHours": {
-      "sunday": "6:00 AM to 8:00 PM",
-      "monday": "5:00 AM to 8:00 PM",
-      "tuesday": "5:00 AM to 8:00 PM",
-      "wednesday": "5:00 AM to 8:00 PM",
-      "thursday": "5:00 AM to 8:00 PM",
-      "friday": "5:00 AM to 9:30 PM",
-      "saturday": "6:00 AM to 9:30 PM"
+      "sunday": "5:00 AM to 8:30 PM",
+      "monday": "5:00 AM to 8:30 PM",
+      "tuesday": "5:00 AM to 8:30 PM",
+      "wednesday": "5:00 AM to 8:30 PM",
+      "thursday": "5:00 AM to 8:30 PM",
+      "friday": "5:00 AM to 8:30 PM",
+      "saturday": "5:30 AM to 9:30 PM"
     }
   }
 ]
