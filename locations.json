@@ -3059,7 +3059,16 @@
     "country": "US",
     "longitude": -73.9851150512695,
     "latitude": 40.7531204223633,
-    "storeId": 1014050
+    "storeId": 1014050,
+    "storeHours": {
+      "sunday": "6:30 AM to 8:30 PM",
+      "monday": "5:30 AM to 9:00 PM",
+      "tuesday": "5:30 AM to 9:00 PM",
+      "wednesday": "5:30 AM to 9:00 PM",
+      "thursday": "5:30 AM to 9:00 PM",
+      "friday": "5:30 AM to 9:00 PM",
+      "saturday": "6:30 AM to 8:30 PM"
+    }
   },
   {
     "city": "Jamaica",
