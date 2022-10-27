@@ -3035,7 +3035,16 @@
     "country": "US",
     "longitude": -74.0034942626953,
     "latitude": 40.7564163208008,
-    "storeId": 1007160
+    "storeId": 1007160,
+    "storeHours": {
+      "sunday": "Closed",
+      "monday": "8:00 AM to 2:00 PM",
+      "tuesday": "8:00 AM to 2:00 PM",
+      "wednesday": "8:00 AM to 2:00 PM",
+      "thursday": "8:00 AM to 2:00 PM",
+      "friday": "8:00 AM to 2:00 PM",
+      "saturday": "Closed"
+    }
   },
   {
     "city": "New York",
