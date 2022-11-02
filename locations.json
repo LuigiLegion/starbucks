@@ -2979,7 +2979,16 @@
     "country": "US",
     "longitude": -73.9904251098633,
     "latitude": 40.7491149902344,
-    "storeId": 1006756
+    "storeId": 1006756,
+    "storeHours": {
+      "sunday": "Closed",
+      "monday": "5:30 AM to 5:00 PM",
+      "tuesday": "5:30 AM to 5:00 PM",
+      "wednesday": "5:30 AM to 5:00 PM",
+      "thursday": "5:30 AM to 5:00 PM",
+      "friday": "5:30 AM to 5:00 PM",
+      "saturday": "Closed"
+    }
   },
   {
     "city": "Brooklyn",
