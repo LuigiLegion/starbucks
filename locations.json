@@ -2923,7 +2923,16 @@
     "country": "US",
     "longitude": -73.9831008911133,
     "latitude": 40.6949653625488,
-    "storeId": 1009903
+    "storeId": 1009903,
+    "storeHours": {
+      "sunday": "5:30 AM to 7:30 PM",
+      "monday": "5:30 AM to 7:00 PM",
+      "tuesday": "5:30 AM to 7:00 PM",
+      "wednesday": "5:30 AM to 7:00 PM",
+      "thursday": "5:30 AM to 7:00 PM",
+      "friday": "5:30 AM to 7:00 PM",
+      "saturday": "5:30 AM to 7:30 PM"
+    }
   },
   {
     "city": "Staten Island",
@@ -2971,7 +2980,16 @@
     "country": "US",
     "longitude": -73.9055633544922,
     "latitude": 40.8775596618652,
-    "storeId": 1007629
+    "storeId": 1007629,
+    "storeHours": {
+      "sunday": "6:00 AM to 9:00 PM",
+      "monday": "5:00 AM to 9:00 PM",
+      "tuesday": "5:00 AM to 9:00 PM",
+      "wednesday": "5:00 AM to 9:00 PM",
+      "thursday": "5:00 AM to 9:00 PM",
+      "friday": "5:00 AM to 9:00 PM",
+      "saturday": "6:00 AM to 9:00 PM"
+    }
   },
   {
     "city": "New York",
@@ -2979,7 +2997,16 @@
     "country": "US",
     "longitude": -73.9904251098633,
     "latitude": 40.7491149902344,
-    "storeId": 1006756
+    "storeId": 1006756,
+    "storeHours": {
+      "sunday": "Closed",
+      "monday": "5:30 AM to 5:00 PM",
+      "tuesday": "5:30 AM to 5:00 PM",
+      "wednesday": "5:30 AM to 5:00 PM",
+      "thursday": "5:30 AM to 5:00 PM",
+      "friday": "5:30 AM to 5:00 PM",
+      "saturday": "Closed"
+    }
   },
   {
     "city": "Brooklyn",
@@ -2995,7 +3022,16 @@
     "country": "US",
     "longitude": -73.9642791748047,
     "latitude": 40.7642059326172,
-    "storeId": 1014942
+    "storeId": 1014942,
+    "storeHours": {
+      "sunday": "6:30 AM to 8:30 PM",
+      "monday": "5:30 AM to 8:30 PM",
+      "tuesday": "5:30 AM to 8:30 PM",
+      "wednesday": "5:30 AM to 8:30 PM",
+      "thursday": "5:30 AM to 8:30 PM",
+      "friday": "5:30 AM to 8:30 PM",
+      "saturday": "6:30 AM to 8:30 PM"
+    }
   },
   {
     "city": "Bronx",
@@ -3003,7 +3039,16 @@
     "country": "US",
     "longitude": -73.9190521240234,
     "latitude": 40.8256034851074,
-    "storeId": 1013054
+    "storeId": 1013054,
+    "storeHours": {
+      "sunday": "6:00 AM to 8:00 PM",
+      "monday": "5:30 AM to 8:00 PM",
+      "tuesday": "5:30 AM to 8:00 PM",
+      "wednesday": "5:30 AM to 8:00 PM",
+      "thursday": "5:30 AM to 8:00 PM",
+      "friday": "5:30 AM to 8:00 PM",
+      "saturday": "6:00 AM to 8:00 PM"
+    }
   },
   {
     "city": "New York",
@@ -3011,7 +3056,16 @@
     "country": "US",
     "longitude": -73.9801330566406,
     "latitude": 40.7731018066406,
-    "storeId": 1013064
+    "storeId": 1013064,
+    "storeHours": {
+      "sunday": "Closed",
+      "monday": "7:00 AM to 4:00 PM",
+      "tuesday": "7:00 AM to 4:00 PM",
+      "wednesday": "7:00 AM to 4:00 PM",
+      "thursday": "7:00 AM to 4:00 PM",
+      "friday": "7:00 AM to 2:30 PM",
+      "saturday": "Closed"
+    }
   },
   {
     "city": "New York",
@@ -3027,7 +3081,16 @@
     "country": "US",
     "longitude": -73.9856262207031,
     "latitude": 40.748233795166,
-    "storeId": 1012266
+    "storeId": 1012266,
+    "storeHours": {
+      "sunday": "Closed",
+      "monday": "6:30 AM to 6:00 PM",
+      "tuesday": "6:30 AM to 6:00 PM",
+      "wednesday": "6:30 AM to 6:00 PM",
+      "thursday": "5:30 AM to 6:00 PM",
+      "friday": "5:30 AM to 6:00 PM",
+      "saturday": "Closed"
+    }
   },
   {
     "city": "New York",
